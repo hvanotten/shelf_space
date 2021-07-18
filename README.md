@@ -37,7 +37,7 @@ The Odin Project : [Project: Library](https://www.theodinproject.com/paths/full-
 ## Live Preview
 
 
-[Shelf Space]()
+[Shelf Space](https://hvanotten.github.io/shelf_space/)
 
 
 
